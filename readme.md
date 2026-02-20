@@ -2,7 +2,7 @@
 # Examen Final - Aplicación Ionic The Simpsons
 
 ## Datos del estudiantes
-- Nombre: ______________________
+- Nombre: Jonathan Quishpe
 
 ## 📋 Objetivo
 
@@ -142,10 +142,10 @@ La API retorna un **objeto** con información de paginación y un array de perso
 
 Las imágenes deben construirse concatenando:
 ```
-https://thesimpsonsapi.com + portrait_path
+https://cdn.thesimpsonsapi.com/ + size + portrait_path
 ```
 
-Ejemplo: `https://thesimpsonsapi.com/character/1.webp`
+Ejemplo: `https://cdn.thesimpsonsapi.com/500/character/1.webp`
 
 ## 🛠️ Requisitos Técnicos
 
